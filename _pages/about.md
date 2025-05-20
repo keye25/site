@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am **Keye Zhu**, currently a student at **Emlyon Business School**, projected to graduate in February 2026, bringing with me several years of prior experience as a Digital Product Manager.
+I am **Keye Zhu**, currently **a Master student at Emlyon Business School**, projected to graduate in February 2026, bringing with me several years of prior experience as a Digital Product Manager.
 
 I am actively seeking an **internship, CDD, or CDI** opportunity in **Paris** commencing July 2025 (holding a valid student visa that permits internships and work in France).
 
