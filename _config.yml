@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Keye Zhu - Personal Site"
+title                    : "Keye Zhu – Product, Data"
 title_separator          : "-"
 name                     : &name "Keye Zhu"
 description              : &description "Personal Site"
@@ -25,7 +25,7 @@ author:
   avatar           : "keye-profile-1.jpg"
   name             : "Keye Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Product & Data Analyze"
+  bio              : "Product Manager & Data Analyst"
   location         : "Paris, France"
   employer         : "Emlyon Business School"
   uri              : #
