@@ -1,7 +1,7 @@
 ---
 title: "01 Excel -- Padel Club Business Plan & Modeling"
 excerpt: "A dynamic Excel model and business plan for launching a Padel club in Paris, with ROI and scenario simulations...
- <br/><img src='/MyWebsite/images/Excel-list.jpg' style='width:60%;'/>"
+ <br/><img src='/site/images/Excel-list.jpg' style='width:60%;'/>"
 collection: portfolio
 ---
 
@@ -12,7 +12,7 @@ Padel is a rapidly growing racket sport, and the project assumed the entrepreneu
 
 Our task was to build **a Excel tool for financial data analysis**, project performance forecasting, and strategic recommendations.
 
-<img src="/MyWebsite/images/Excel1.gif" class="img-medium" />
+<img src="/site/images/Excel1.gif" class="img-medium" />
 
 ## My Core Contributions
 
@@ -29,7 +29,7 @@ I collaborated closely with my team to develop a **powerful and user-friendly Ex
 2. **Scenario Simulation Module**: Included three preset parameter groups: Base Case, Best Case, and Worst Case.
 3. **Decision-Making Tool**: The Check module allowed testing the impact of different operational strategy combinations and provided business recommendations.
 
-<img src="/MyWebsite/images/Excel2.gif" class="img-medium" />
+<img src="/site/images/Excel2.gif" class="img-medium" />
 
 ## Technical Highlights
 
@@ -41,7 +41,7 @@ I collaborated closely with my team to develop a **powerful and user-friendly Ex
 | Error Trapping          | Developed a custom **Error prompt** system to prevent invalid inputs.        |
 
 
-<img src="/MyWebsite/images/Excel1.png" class="img-medium" />
+<img src="/site/images/Excel1.png" class="img-medium" />
 
 
 <p style="font-size: 0.7em; color: gray; text-align: left;">
