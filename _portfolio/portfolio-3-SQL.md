@@ -1,5 +1,5 @@
 ---
-title: "02 SQL & Data Modeling -- Divvy Bike Sharing Service"
+title: "03 SQL & Data Modeling -- Divvy Bike Sharing Service"
 excerpt: "<span style='font-size:0.85em; color:#494e52;'>  
 A SQL and data modeling project for a bike-sharing service. Focused on database interrogation, re-modeling, and business-level query design, this school project showcases advanced SQL skills, ER modeling, and strategic recommendations for operational efficiency... <br/><img src='/site/images/sql-list.jpg' style='width:50%;'/>"  
 collection: portfolio
