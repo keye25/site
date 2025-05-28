@@ -1,7 +1,7 @@
 ---
-title: "02 Power BI -- ServiceSpot Call Center Analytics Dashboard"
+title: "2 Power BI -- ServiceSpot Call Center Analytics Dashboard"
 excerpt: "<span style='font-size:0.85em; color:#494e52;'>
-An interactive Power BI dashboard designed to help an IT company analyze its call center performance. The project includes SLA monitoring, call traffic trends, employee performance tracking, revenue insights, and time-based behavior patterns...<br/><img src='/site/images/BI-0.gif' style='width:50%;'/>"
+An interactive Power BI dashboard designed to help an IT company analyze its call center performance. The project includes SLA monitoring, call traffic trends, employee performance tracking, revenue insights, and time-based behavior patterns...<br/><img src='/site/images/BI-0.jpg' style='width:50%;'/>"
 collection: portfolio
 ---
 
