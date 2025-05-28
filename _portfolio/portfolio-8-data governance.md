@@ -1,5 +1,5 @@
 ---
-title: "03 Data Governance -- Paack Delivery "
+title: "4 Data Governance -- Paack Delivery "
 excerpt: "<span style='font-size:0.85em; color:#494e52;'>  A detailed analysis of Paack Inc.'s data governance challenges and strategic solutions (in school group project)...
  <br/><img src='/site/images/paack-list.jpg' style='width:50%;'/>"
 collection: portfolio
