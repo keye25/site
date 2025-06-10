@@ -14,59 +14,41 @@ redirect_from:
 Education
 ======
 
-* **Emlyon Business School** *( Paris, France - Expected February 2026 )* MSc in Digital Marketing and Data Science
-* **Shanghai University** *( Shanghai, China - June 2015 )* Bachelor of Engineering in Digital Media
+* **Emlyon Business School** *( Paris, France - September 2024 - Expected February 2026 )* MSc in Digital Marketing and Data Science
+* **Shanghai University** *( Shanghai, China - September 2015 - June 2019)* Bachelor of Engineering in Digital Media
 
 Skills
 ======
+### Technical Skills
+- Programming & Data: Python (pandas, numpy), SQL, R, Excel (pivot, vlookup), Power BI, Tableau  
+- Analytics & Tracking: Google Analytics, A/B Testing, Event Tracking, Funnel Analysis  
+- Tools & Collaboration: Jira, GitHub, Confluence
 
-* Technical Skills
-  * Excel, Power BI, Tableau, SQL, Python, R
-  * Google Analytics, JIRA, Confluence, Axure
-
-* Languages
-  * **Chinese**: Native
-  * **English**: Fluent
-  * **French**: Beginner (currently learning)
+### Languages
+- **English**: Fluent  
+- **French**: A2 (Currently improving)
+- **Chinese**: Native 
 
 
 Work experience
 ======
-### China Mobile (Migu Video Technology)
+### Product Analyst (ToB)  
+**China Mobile (Migu Video Technology)** | Shanghai, China | May 2021 – July 2024 (3 years)  
+- Developed interactive dashboards for "Video Engagement" and "Revenue & Settlement" modules, providing transparent financial insights to internal teams and B2B partners  
+- Defined client-side event tracking specifications and implemented reliable data pipelines using SQL, ensuring data integrity for product analytics  
+- Collaborated with operations teams to deliver B2B function modules and APIs, adopted by over 200 companies, driving revenue growth  
 
-**Product Manager (ToB)**
-*Shanghai, China | May 2021 – July 2024*
+### Product Analyst (CRM & User Insights)  
+**Infold Games Technology** | Shanghai, China | October 2020 – April 2021 (7 months)  
+- Analyzed payment data to identify high-ROI users and behavioral patterns, enabling targeted email campaigns and personalized engagement strategies  
+- Spearheaded development of game user center and enhanced VIP platform with features like payment history and gift record tracking  
+- Built CRM tools for in-game transaction tracking and chatbot FAQs, increasing self-service resolution rate by 47%  
 
-* Improved user CTR and engagement via data analysis and A/B testing, boosting social media community growth
-* Led development of video PGC business feature: designed and launched Web/App content upload systems
-* Built B2B functional modules and APIs, adopted by 200+ companies, contributing to revenue growth
-
-### Infold Games
-
-**Product Manager (Customer Service)**
-*Shanghai, China | October 2020 – April 2021*
-
-* Developed game user center and optimized VIP customer platform with access control and gift tracking
-* Created self-service tools for in-game item queries and chatbot FAQs
-* Enhanced CRM system’s customer service functions
-
-### Bilibili.com
-
-**Product Manager (Social Media)**
-*Shanghai, China | January 2018 – March 2020*
-
-* Modularized publishing tools, enabling content integration across comics, games, and mini-programs
-* Launched audio-video continuous play feature: +25% video consumption, +120% audio engagement
-* Optimized ad display interactions through A/B testing, increasing CTR up to 11.3%
-
-### Kanjian Music
-
-**Media Operation Assistant**
-*Shanghai, China | September 2015 – January 2018*
-
-* Automated material transfer processes, significantly reducing manual workload
-* Increased platform throughput from 1,000 to 10,000+ songs/month
-
+### Product Owner (Social Media)  
+**Bilibili Video Technology** | Shanghai, China | January 2019 – March 2020 (1 year)  
+- Modularized content publishing tool, enabling cross-sector integration across comics, video games, and feeding flow, improving content publishing rate by 30%  
+- Directed development of an integrated audio-video continuous play feature, boosting video consumption by 25% and audio section engagement by 120%  
+- Optimized advertisement display interaction through A/B testing, increasing CTR up to 11.3%  
 
 
 # Profile
@@ -81,64 +63,47 @@ With a strong background in product development and digital media, I specialize 
 
 
 
-
-Éducation  
-======
-* **Emlyon Business School** *( Paris, France - Prévu en février 2026 )*  
-  MSc en Marketing Digital et Science des Données  
-* **Université de Shanghai** *( Shanghai, Chine - Juin 2015 )*  
-  Diplôme d'ingénieur en Médias Numériques
-
-Compétences  
+Education
 ======
 
-* Compétences techniques  
-  * Excel, Power BI, Tableau, SQL, Python, R  
-  * Google Analytics, JIRA, Confluence, Axure
+* **Emlyon Business School** *(Paris, France - Septembre 2024 - Prévu février 2026)*  
+  Master en Marketing Digital et Science des Données
 
-* Langues  
-  * **Chinois** : Langue maternelle  
-  * **Anglais** : Courant  
-  * **Français** : Débutant (en cours d’apprentissage)
+* **Shanghai University** *(Shanghai, Chine - Septembre 2015 - Juin 2019)*  
+  Diplôme d'Ingénieur en Médias Numériques
 
-Expérience professionnelle  
+Skills
 ======
+### Compétences Techniques
+- Programmation & Données : Python (pandas, numpy), SQL, R, Excel (tableaux croisés dynamiques, vlookup), Power BI, Tableau  
+- Analyse & Suivi : Google Analytics, Tests A/B, Suivi d'événements, Analyse de funnels  
+- Outils & Collaboration : Jira, GitHub, Confluence
 
-### China Mobile (Migu Video Technology)  
+### Langues
+- **Anglais** : Courant  
+- **Français** : Débutant (en cours d'amélioration)  
+- **Chinois** : Langue maternelle
 
-**Chef de produit (ToB)**  
-*Shanghai, Chine | Mai 2021 – Juillet 2024*  
+Work experience
+======
+### Analyste Produit (ToB)  
+**China Mobile (Migu Video Technology)** | Shanghai, Chine | Mai 2021 – Juillet 2024 (3 ans)  
+- Développement de tableaux de bord interactifs pour les modules "Engagement Vidéo" et "Revenus & Règlement", fournissant des insights financiers transparents aux équipes internes et partenaires B2B  
+- Définition des spécifications de suivi d'événements côté client et mise en œuvre de pipelines de données fiables avec SQL, garantissant l'intégrité des données pour l'analyse produit  
+- Collaboration avec les équipes opérationnelles pour livrer des modules fonctionnels B2B et des API adoptés par plus de 200 entreprises, stimulant la croissance des revenus  
 
-* Amélioration du taux de clics et de l’engagement utilisateur via l’analyse de données et les tests A/B, contribuant à la croissance des communautés sociales  
-* Direction du développement d’une fonctionnalité de contenu vidéo PGC : conception et lancement des systèmes de téléversement Web/App  
-* Création de modules fonctionnels B2B et d’API adoptés par plus de 200 entreprises, contribuant à l’augmentation du chiffre d’affaires  
+### Analyste Produit (Service Client & Insights Utilisateurs)  
+**Infold Games Technology** | Shanghai, Chine | Octobre 2020 – Avril 2021 (7 mois)  
+- Analyse des données de paiement pour identifier les utilisateurs à forte rentabilité et les comportements clés, permettant des campagnes email ciblées et des stratégies d'engagement personnalisées  
+- Pilotage du développement du centre utilisateur de jeu et amélioration de la plateforme VIP avec suivi des paiements et des cadeaux  
+- Création d'outils CRM pour le suivi des transactions in-game et FAQ automatisée par chatbot, augmentant le taux de résolution en libre-service de 47%  
 
-### Infold Games  
+### Chef de Produit (Réseaux Sociaux)  
+**Bilibili Video Technology** | Shanghai, Chine | Janvier 2019 – Mars 2020 (1 an)  
+- Modularisation des outils de publication, permettant l'intégration transversale de contenus entre BD, jeux vidéo et flux d'alimentation, améliorant le taux de publication de contenu de 30%  
+- Direction du développement d'une fonctionnalité de lecture audio-vidéo continue, augmentant la consommation vidéo de 25% et l'engagement dans la section audio de 120%  
+- Optimisation des interactions publicitaires via tests A/B, augmentant le CTR jusqu'à 11.3%
 
-**Chef de produit (Service client)**  
-*Shanghai, Chine | Octobre 2020 – Avril 2021*  
+# Profil
 
-* Développement du centre utilisateur pour les joueurs et optimisation de la plateforme VIP avec contrôle d’accès et suivi des cadeaux  
-* Création d’outils en libre-service pour les requêtes d’objets en jeu et une FAQ automatisée par chatbot  
-* Amélioration des fonctions de service client du système CRM  
-
-### Bilibili.com  
-
-**Chef de produit (Réseaux sociaux)**  
-*Shanghai, Chine | Janvier 2018 – Mars 2020*  
-
-* Modularisation des outils de publication, facilitant l’intégration des contenus entre BD, jeux et mini-programmes  
-* Lancement de la lecture continue audio-vidéo : +25 % de consommation vidéo, +120 % d’engagement audio  
-* Optimisation des interactions publicitaires par tests A/B, augmentation du taux de clics jusqu’à 11,3 %  
-
-### Kanjian Music  
-
-**Assistante en opérations médias**  
-*Shanghai, Chine | Septembre 2015 – Janvier 2018*  
-
-* Automatisation des processus de transfert de contenus, réduisant considérablement le travail manuel  
-* Augmentation du volume de chansons traitées sur la plateforme de 1 000 à plus de 10 000 par mois  
-
-Profil  
-======  
-Avec une solide expérience en développement de produits et en médias numériques, je me spécialise dans l’utilisation de l’analyse de données pour éclairer les décisions stratégiques. Je suis passionnée par l’optimisation des performances commerciales par les données et je m’épanouis dans la collaboration interdisciplinaire pour transformer des idées en résultats concrets.
+Avec une solide expérience en développement produit et médias numériques, je me spécialise dans l'utilisation de l'analyse de données pour éclairer les décisions stratégiques. Je suis passionné par l'optimisation des performances commerciales grâce aux données et j'excellle dans la collaboration interdisciplinaire pour transformer des idées en résultats mesurables.

@@ -14,9 +14,10 @@ I am actively seeking an **internship, CDD, or CDI** opportunity in **Paris** co
 
 My academic and professional journey has equipped me with a robust skill set at the intersection of **Digital Marketing and Data Science**. Furthermore, I have gained valuable hands-on experience in **Digital Product Management**, focused on boosting user engagement, and delivering impactful business intelligence through data-driven strategies. I am passionate about the power of data and continuously seek innovative approaches to leverage it for meaningful impact and business growth.
 
-* Data Tools: Excel, Power BI, Tableau, Dataiku
-* Code: MySQL, Python, R
-* Marketing: CRM, Google Analytics
+* Programming & Data: Python (pandas, numpy), SQL, R, Excel (pivot, vlookup), Power BI, Tableau
+* Analytics & Tracking: Google Analytics, A/B testing, Event Tracking, Funnel Analysis
+* Tools & Collaboration: Jira, GitHub, Confluence
+* Languages: English (Fluent), French(A2), Chinese(Native)
 
 
 <hr style="margin: 2em 0;"/>
@@ -33,6 +34,7 @@ Je suis actuellement à la recherche d’un **stage, CDD ou CDI** à **Paris**, 
 Mon parcours académique et professionnel m’a permis de développer des compétences solides à l’intersection du **marketing digital et de la data science**. J’ai également acquis une expérience pratique précieuse en gestion de **produits digitaux**, axée sur l’amélioration de l’engagement utilisateur et la génération d’intelligence métier grâce à des stratégies guidées par la donnée.
 Passionnée par la puissance des données, je cherche constamment des approches innovantes pour les exploiter de manière efficace au service de la performance et de la croissance.
 
-* Outils Data : Excel, Power BI, Tableau, Dataiku
-* Langages : MySQL, Python, R
-* Marketing : CRM, Google Analytics
+* Programmation & Données : Python (pandas, numpy), SQL, R, Excel (tableaux croisés dynamiques, recherche verticale), Power BI, Tableau
+* Analyse & Suivi : Google Analytics, Tests A/B, Suivi d'événements, Analyse de funnels
+* Outils & Collaboration : Jira, GitHub, Confluence
+* Langues : Anglais (courant), Français (A2), Chinois (langue maternelle)

@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 
-## Background
+## Background  test
 As part of the Data Governance course at School, I collaborated with a team to analyze a business case on Paack Inc., a parcel delivery company that stands out by allowing customers to schedule their deliveries. Our goal was to apply data governance and strategy concepts to address real-world challenges and support Paack’s growth in the competitive logistics sector.
 
 In this project, we focused on:
