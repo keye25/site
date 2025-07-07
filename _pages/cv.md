@@ -43,7 +43,7 @@ Work experience
 - Built CRM tools for in-game transaction tracking and chatbot FAQs, increasing self-service resolution rate by 47%  
 
 ### Product Owner (Social Media)  
-**Bilibili Video Technology** | Shanghai, China | January 2019 – March 2020 (1 year)  
+**Bilibili Video Technology** | Shanghai, China | January 2018 – March 2020 (2 year)  
 - Modularized content publishing tool, enabling cross-sector integration across comics, video games, and feeding flow, improving content publishing rate by 30%  
 - Directed development of an integrated audio-video continuous play feature, boosting video consumption by 25% and audio section engagement by 120%  
 - Optimized advertisement display interaction through A/B testing, increasing CTR up to 11.3%  
@@ -52,8 +52,11 @@ Work experience
 Education
 ======
 
-* **Emlyon Business School**  | Paris, France - September 2024 - Expected February 2026 | MSc in Digital Marketing and Data Science
-* **Shanghai University** | Shanghai, China | Bachelor of Engineering in Digital Media
+* **Emlyon Business School**  | Paris, France - September 2024 - Expected February 2026 | 
+  MSc in Digital Marketing and Data Science
+* **Shanghai University** | Shanghai, China | 
+  Bachelor of Engineering in Digital Media
+
 
 
 <hr style="margin: 2em 0;"/>
@@ -93,7 +96,7 @@ Work experience
 - Création d'outils CRM pour le suivi des transactions in-game et FAQ automatisée par chatbot, augmentant le taux de résolution en libre-service de 47%  
 
 ### Chef de Produit (Réseaux Sociaux)  
-**Bilibili Video Technology** | Shanghai, Chine | Janvier 2019 – Mars 2020 (1 an)  
+**Bilibili Video Technology** | Shanghai, Chine | Janvier 2018 – Mars 2020 (2 ans)  
 - Modularisation des outils de publication, permettant l'intégration transversale de contenus entre BD, jeux vidéo et flux d'alimentation, améliorant le taux de publication de contenu de 30%  
 - Direction du développement d'une fonctionnalité de lecture audio-vidéo continue, augmentant la consommation vidéo de 25% et l'engagement dans la section audio de 120%  
 - Optimisation des interactions publicitaires via tests A/B, augmentant le CTR jusqu'à 11.3%
