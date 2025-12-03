@@ -15,7 +15,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -45,9 +45,11 @@
  
   a {
     color: #033097;  /* 修改为您想要的颜色 */
+    text-decoration: none;
     
     &:hover {
-      color: #1F618D;  /* 鼠标悬停时的颜色（可选）*/
+      color: #033097;  /* 鼠标悬停时的颜色（可选）*/
+      text-decoration: underline;
     }
   }
 
