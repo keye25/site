@@ -42,11 +42,20 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+ 
+  a {
+    color: #033097;  /* 修改为您想要的颜色 */
+    
+    &:hover {
+      color: #1F618D;  /* 鼠标悬停时的颜色（可选）*/
+    }
+  }
 
   a + a {
     opacity: 0.5;
   }
 }
+
 
 /* remove border*/
 .page__content {
